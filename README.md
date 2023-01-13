@@ -1,3 +1,8 @@
+<div align="center">
+  <h1>Holidayzer</h1>
+  <p>Holidayzer is a web application that allows users to search for holidays in 2023.</p>
+</div>
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
